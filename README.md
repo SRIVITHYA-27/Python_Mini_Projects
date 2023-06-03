@@ -8,4 +8,4 @@ This repository contain collection of python mini projects are:
 
 3. [Turtle](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Python%20Turtle.ipynb)
 
-4.[Linear Regression](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Linear%20Regression%20Prediction%20Probability.ipynb)
+4. [Linear Regression](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Linear%20Regression%20Prediction%20Probability.ipynb)
